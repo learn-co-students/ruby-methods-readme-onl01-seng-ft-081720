@@ -85,7 +85,6 @@ build a method—a little machine that does exactly that whenever we want.
 
 The method would look like this:
 
-```ruby
 def say_hello_world_ten_times
   phrase = "Hello World!"
   puts phrase
